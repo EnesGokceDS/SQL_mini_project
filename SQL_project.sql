@@ -127,6 +127,7 @@ ORDER BY facilities.guestcost DESC;
 
 
 /* Q9: This time, produce the same result as in Q8, but using a subquery. */
+
 USE club_data;
 SELECT CONCAT(members.firstname,' ', members.surname) AS member_name, facilities.guestcost, facilities.name
 FROM bookings 
