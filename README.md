@@ -1,2 +1,4 @@
 # SQL_mini_project
-This is a mini project that is done as an assignment for SpringBoard Data Science bootcamp
+I have dome this mini project as an assignment for SpringBoard Data Science bootcamp.
+
+
